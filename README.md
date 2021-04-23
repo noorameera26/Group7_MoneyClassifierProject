@@ -1,4 +1,4 @@
-###Can a computer classify your Ringgits?                                                                                                      Date: 23rd April 2021
+### Can a computer classify your Ringgits?                                                                                                Date: 23rd April 2021
 
 To fulfill the requirements for the CDLE training program conducted by CertifAI and Skymind, me and my partner developed a CNN model to classify Malaysian Banknotes.
 
