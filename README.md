@@ -8,7 +8,7 @@ Our project objectives were short and simple which are:
 - to prepare and process the datasets.
 - to create an image classifier that classifies Malaysian Ringgit.
 
-The datasets used for this project was obtained in courtesy of the researchers from Universiti Teknologi Malaysia which was used in their research published in 2012. [1]
+The datasets used for this project is obtained in courtesy of the researchers from Universiti Teknologi Malaysia which was used in their research published in 2012. [1]
 
 Acknowledgements:
 - Nur Anis Jasmin Sufri, Universiti Teknologi Malaysia (https://www.researchgate.net/profile/Nur-Anis-Jasmin-Sufri-2)
