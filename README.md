@@ -1,6 +1,6 @@
 ### Can a computer classify your Ringgits?                                                                                                
 
-To fulfill the requirements for the CDLE training program conducted by CertifAI and Skymind, me and my partner developed a CNN model to classify Malaysian Banknotes.
+To fulfill the requirements for the Certified Deep Learning Engineer (CDLE) training program conducted by CertifAI and Skymind, me and my partner developed a CNN model to classify Malaysian Banknotes.
 
 Our project objectives were short and simple which are:
 - to develop an image classification model that supports 6 classes.
